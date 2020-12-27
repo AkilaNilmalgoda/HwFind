@@ -1,5 +1,6 @@
 .video{
     display: flex;
+    
     justify-content: center;
     border: 10px solid #fb2056;
     border-radius: 5px;
@@ -14,7 +15,7 @@
 .worksheet-download-btn{
     background-color: #fb2056;
     height: 50px;
-    width: 90%;
+    
     font-size: large;
     border: none;
     border-radius: 5px;
