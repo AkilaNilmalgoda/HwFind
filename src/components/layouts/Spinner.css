@@ -19,10 +19,10 @@
     height: 100vh;
     width: 100%;
     background-color: black;
-}
+} 
 
-.loading-body>img{
+/* .loading-body>img{
     position: relative;;
     bottom: 15%;
     
-}
+} */
