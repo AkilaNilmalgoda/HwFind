@@ -1,0 +1,45 @@
+.search-input{
+    
+    border: none;
+    background: #d9d9d9;
+    border-radius: 5px;
+}
+
+.search-button{
+    border: solid #fb2056;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.homework-result-unit{
+    height:150px;
+    background-color: white ;
+}
+
+.homework-result-unit-main{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #fb2056;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .3s ease-in-out;
+    border-radius: 5px;
+
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+.homework-result-unit-main:hover {
+    text-decoration: none;
+    transform: scale(1.03);
+
+}
+
+.homework-result-title{
+    color: black;
+    font-size: 30px;
+}

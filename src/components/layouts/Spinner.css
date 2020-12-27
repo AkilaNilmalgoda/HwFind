@@ -1,0 +1,28 @@
+
+.feed{
+    color: #fb2056
+}
+
+.me{
+    color: #f9c80e
+}
+
+.english{
+    color: #43bccd
+}
+
+.site{
+    color: black;
+}
+
+.loading-body{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+
+.loading-body>img{
+    position: relative;;
+    bottom: 15%;
+    
+}

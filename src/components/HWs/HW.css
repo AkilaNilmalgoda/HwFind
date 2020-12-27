@@ -1,0 +1,21 @@
+.video{
+    display: flex;
+    justify-content: center;
+    border: 10px solid #fb2056;
+    border-radius: 5px;
+}
+
+.main-hw-box{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+.worksheet-download-btn{
+    background-color: #fb2056;
+    height: 50px;
+    width: 90%;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+}
