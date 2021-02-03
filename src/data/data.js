@@ -197,6 +197,26 @@ const HWdata = [
                 },
             ]
     },
+    {
+        title: 'Present Perfect',
+        id:10,
+        video: 'https://www.youtube.com/watch?v=g6lWvp49mM0',
+        worksheets: 
+            [
+                {
+                    id:1, 
+                    link:'https://www.englishforeveryone.org/PDFs/Present_Tense_Exercises_27and28.pdf'
+                },
+                {
+                    id:2, 
+                    link:'https://www.englishforeveryone.org/PDFs/Present_Tense_Exercise_29.pdf'
+                },
+                {
+                    id:3, 
+                    link:'https://www.englishforeveryone.org/PDFs/Present_Tense_Exercise_30.pdf'
+                },
+            ]
+    },
 
 ]
 
